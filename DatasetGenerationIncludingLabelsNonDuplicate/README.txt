@@ -6,7 +6,7 @@ controlled.cpp contains a naive way of implementation where we are selecting edg
  
 controlled_approach3 contains a modified way where we generate all the edges and select an edge at random using edge index and including it in the graph.
 
-1.  g++ controlled.cpp(or corresponding file) -o control
+1.  g++ generation.cpp -o control
 
 2.  ./control NumberofGraphstoBeGenerated maximumnoofvertexices minimumnoofverices maxedgepercentage minedgepercentage noofallowedlabels datafile
     
