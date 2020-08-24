@@ -1,0 +1,104 @@
+10
+g 5 3 1
+v 1 B
+v 3 D
+v 6 C
+v 5 D
+v 2 D
+e 5 D 2 D
+e 2 D 3 D
+e 6 C 1 B
+g 5 4 2
+v 6 B
+v 5 A
+v 7 A
+v 8 A
+v 3 D
+e 8 A 7 A
+e 8 A 5 A
+e 6 B 5 A
+e 3 D 6 B
+g 5 5 3
+v 3 E
+v 1 B
+v 7 C
+v 8 A
+v 4 E
+e 7 C 4 E
+e 7 C 3 E
+e 1 B 4 E
+e 4 E 3 E
+e 3 E 8 A
+g 7 4 4
+v 2 C
+v 6 E
+v 8 C
+v 5 B
+v 3 E
+v 7 A
+v 4 E
+e 7 A 2 C
+e 5 B 2 C
+e 3 E 6 E
+e 3 E 7 A
+g 5 2 5
+v 4 E
+v 5 D
+v 8 E
+v 2 A
+v 7 A
+e 5 D 4 E
+e 8 E 4 E
+g 7 6 6
+v 8 D
+v 6 A
+v 1 D
+v 4 A
+v 7 C
+v 3 A
+v 2 C
+e 2 C 8 D
+e 2 C 4 A
+e 3 A 4 A
+e 3 A 6 A
+e 1 D 4 A
+e 1 D 3 A
+g 5 2 7
+v 5 A
+v 8 A
+v 4 B
+v 2 B
+v 3 E
+e 5 A 8 A
+e 5 A 2 B
+g 5 4 8
+v 5 E
+v 4 E
+v 2 B
+v 7 D
+v 8 A
+e 2 B 5 E
+e 8 A 2 B
+e 7 D 4 E
+e 7 D 2 B
+g 5 4 9
+v 1 A
+v 5 D
+v 3 A
+v 6 E
+v 7 D
+e 1 A 5 D
+e 6 E 7 D
+e 3 A 7 D
+e 3 A 6 E
+g 6 4 10
+v 8 C
+v 3 B
+v 6 C
+v 2 D
+v 4 E
+v 7 D
+e 3 B 6 C
+e 4 E 2 D
+e 4 E 7 D
+e 7 D 2 D
